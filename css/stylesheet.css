@@ -77,7 +77,19 @@ body {
     font-weight:800;
 }
 
+/*
+  ========================================
 
+    COL 1 STYLING
+  ========================================
+*/
+
+.col p{
+    font-size: 18px;
+    line-height: 60px;
+    text-align: right;
+    padding-right: 40px
+}
 
 
 /*  SECTIONS  ============================================================================= */
@@ -130,8 +142,12 @@ body {
 	width: 100%;
 }
 
-.span_1_of_2 {
-	width: 49.2%;
+.span_1_of_2_1 {
+	width: 32.8%;
+}
+
+.span_1_of_2_2{
+width:  65.6%
 }
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
@@ -140,7 +156,8 @@ body {
 	.span_2_of_2 {
 		width: 100%; 
 	}
-	.span_1_of_2 {
+	.span_1_of_2_1,
+    .span_1_of_2_2 {
 		width: 100%; 
 	}
 }
