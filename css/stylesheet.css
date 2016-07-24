@@ -104,7 +104,6 @@ body {
 .nav6:hover,
 .nav7:hover {
     background: #fff;
-    border: 
 }
 
 .nav1 p,
@@ -120,6 +119,7 @@ body {
     padding-left: 75px;
 }
 
+
 .nav1 p:hover,
 .nav2 p:hover,
 .nav3 p:hover,
@@ -128,7 +128,6 @@ body {
 .nav6 p:hover,
 .nav7 p:hover {
     color: #36abe1;
-    border: 
 }
 
 .nav1 img,
@@ -139,8 +138,36 @@ body {
 .nav6 img,
 .nav7 img {
     padding: 15px;
-    width: %;
 }
+
+.nav1 img:hover{
+    content: url(../images/icons/individual/icons_small_bs1_blue.png);
+}
+
+.nav2 img:hover{
+        content: url(../images/icons/individual/icons_small_bs2_blue.png);
+}
+
+.nav3 img:hover{
+        content: url(../images/icons/individual/icons_small_bs3_blue.png);
+}
+
+.nav4 img:hover{
+        content: url(../images/icons/individual/icons_small_bs4_blue.png);
+}
+
+.nav5 img:hover{
+        content: url(../images/icons/individual/icons_small_bs5_blue.png);
+}
+
+.nav6 img:hover{
+        content: url(../images/icons/individual/icons_small_bs6_blue.png);
+}
+
+.nav7 img:hover{
+        content: url(../images/icons/individual/icons_small_bs7_blue.png);
+}
+
 
 .sec1 p{
     color: #9ba0a4;
