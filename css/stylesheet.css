@@ -91,9 +91,21 @@ body {
 .nav5,
 .nav6,
 .nav7 {
-    border: 
+    background: #d1d5d6;
+    border: 1px solid #fff;
+    border-right: 
 }
 
+.nav1:hover,
+.nav2:hover,
+.nav3:hover,
+.nav4:hover,
+.nav5:hover,
+.nav6:hover,
+.nav7:hover {
+    background: #fff;
+    border: 
+}
 
 .nav1 p,
 .nav2 p,
@@ -106,6 +118,17 @@ body {
     float: left;
     font-size: 18px; 
     padding-left: 75px;
+}
+
+.nav1 p:hover,
+.nav2 p:hover,
+.nav3 p:hover,
+.nav4 p:hover,
+.nav5 p:hover,
+.nav6 p:hover,
+.nav7 p:hover {
+    color: #36abe1;
+    border: 
 }
 
 .nav1 img,
