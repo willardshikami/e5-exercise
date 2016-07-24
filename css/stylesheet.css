@@ -84,7 +84,8 @@ body {
   ========================================
 */
 
-.col p{
+.sec1 p{
+    color: #9ba0a4;
     font-size: 18px;
     line-height: 60px;
     text-align: right;
@@ -102,6 +103,9 @@ body {
 
 /*  GROUPING  ============================================================================= */
 
+.group {
+    padding-top: 60px
+}
 
 .group:before,
 .group:after {
@@ -147,7 +151,7 @@ body {
 }
 
 .span_1_of_2_2{
-width:  75.6%
+width:  75.6%;  
 }
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
@@ -170,6 +174,7 @@ width:  75.6%
 .step6_top img,
 .step7_top img {
     float: left;
+    padding-left: 70px;
 }
 
 .step1_top h1,
@@ -218,7 +223,7 @@ width:  75.6%
 
 .step7_top h1,
 .step7_top p {
-	padding-left: 95px;
+	padding-left: 165px;
 }
 
 .step1 h4,
@@ -231,4 +236,6 @@ width:  75.6%
     font-family: ;
     line-height: 20px;
     padding-right: 70px;
+    padding-left: 70px;
+    padding-bottom: 
 }
