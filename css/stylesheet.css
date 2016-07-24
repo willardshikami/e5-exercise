@@ -143,11 +143,11 @@ body {
 }
 
 .span_1_of_2_1 {
-	width: 32.8%;
+	width: 22.8%;
 }
 
 .span_1_of_2_2{
-width:  65.6%
+width:  75.6%
 }
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
@@ -163,13 +163,28 @@ width:  65.6%
 }
 
 .step1_top img{
-    float: left
+    float: left;
 }
 
 .step1_top h1{
-    
+	font-size: 30px;
+	color: #36abe1;
+    padding-top: 10px;
+	
 }
 
 .step1_top p {
-    
+    color: #5c6366;
+    text-align:left;
+	line-height: 20px;
+    padding-bottom: 24px;
+}
+
+.step1_top h1,
+.step1_top p {
+	padding-left: 95px;
+}
+
+.step1 h4{
+    line-height: 20px;
 }
