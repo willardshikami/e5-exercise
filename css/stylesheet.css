@@ -84,12 +84,48 @@ body {
   ========================================
 */
 
+.nav1,
+.nav2,
+.nav3,
+.nav4,
+.nav5,
+.nav6,
+.nav7 {
+    border: 
+}
+
+
+.nav1 p,
+.nav2 p,
+.nav3 p,
+.nav4 p,
+.nav5 p,
+.nav6 p,
+.nav7 p {
+    color: #9ba0a4;
+    float: left;
+    font-size: 18px; 
+    padding-left: 75px;
+}
+
+.nav1 img,
+.nav2 img,
+.nav3 img,
+.nav4 img,
+.nav5 img,
+.nav6 img,
+.nav7 img {
+    padding: 15px;
+    width: %;
+}
+
 .sec1 p{
     color: #9ba0a4;
     font-size: 18px;
     line-height: 60px;
     text-align: right;
     padding-right: 40px;
+    
 }
 
 
@@ -237,5 +273,5 @@ width:  75.6%;
     line-height: 20px;
     padding-right: 70px;
     padding-left: 70px;
-    padding-bottom: 
+    padding-bottom: 400px
 }
