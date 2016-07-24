@@ -162,18 +162,36 @@ width:  75.6%
 	}
 }
 
-.step1_top img{
+.step1_top img,
+.step2_top img,
+.step3_top img,
+.step4_top img,
+.step5_top img,
+.step6_top img,
+.step7_top img {
     float: left;
 }
 
-.step1_top h1{
+.step1_top h1,
+.step2_top h1,
+.step3_top h1,
+.step4_top h1,
+.step5_top h1,
+.step6_top h1,
+.step7_top h1 {
 	font-size: 30px;
 	color: #36abe1;
     padding-top: 10px;
 	
 }
 
-.step1_top p {
+.step1_top p,
+.step2_top p,
+.step3_top p,
+.step4_top p,
+.step5_top p,
+.step6_top p,
+.step7_top p {
     color: #5c6366;
     text-align:left;
 	line-height: 20px;
@@ -181,11 +199,35 @@ width:  75.6%
 }
 
 .step1_top h1,
-.step1_top p {
+.step1_top p,
+
+.step2_top h1,
+.step2_top p,
+
+.step3_top h1,
+.step3_top p,
+
+.step4_top h1,
+.step4_top p,
+
+.step5_top h1,
+.step5_top p,
+
+.step6_top h1,
+.step6_top p,
+
+.step7_top h1,
+.step7_top p {
 	padding-left: 95px;
 }
 
-.step1 h4{
+.step1 h4,
+.step2 h4,
+.step3 h4,
+.step4 h4,
+.step5 h4, 
+.step6 h4,
+.step7 h4 {
     font-family: ;
     line-height: 20px;
     padding-right: 70px;
